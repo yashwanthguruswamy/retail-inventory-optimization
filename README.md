@@ -5,6 +5,10 @@ A data analytics project to forecast SKU-level demand and optimize inventory res
 ## Objective
 Forecast product demand and identify at-risk SKUs in a retail inventory dataset to optimize restocking decisions and reduce stockouts.
 
+## 📂 Data Source
+Simulated data inspired by [Kaggle Multi-category eCommerce Behavior Dataset](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)
+
+
 ## Tools Used
 - Python (Pandas, Seaborn, Matplotlib)
 - Jupyter Notebook
