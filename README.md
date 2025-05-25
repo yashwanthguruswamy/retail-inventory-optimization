@@ -34,3 +34,5 @@ retail-inventory-optimization/
 │ └── restock_recommendation_heatmap.png
 └── README.md
 ```
+## 🔗 Live Dashboard
+[View Tableau Dashboard](https://public.tableau.com/views/RetailInventoryOptimizationDashboard/Inventory_dashboard)
