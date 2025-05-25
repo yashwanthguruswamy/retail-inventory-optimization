@@ -28,11 +28,8 @@ Simulated data inspired by [Kaggle Multi-category eCommerce Behavior Dataset](ht
 ## 📂 Project Structure
 ```
 retail-inventory-optimization/
-├── data/
 │ └── retail_inventory_data.csv
-├── notebook/
 │ └── retail_inventory_analysis.ipynb
-├── output/
 │ ├── inventory_sku_summary.csv
 │ ├── units_sold_per_sku.png
 │ └── restock_recommendation_heatmap.png
